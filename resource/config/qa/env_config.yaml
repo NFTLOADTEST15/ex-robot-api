@@ -1,0 +1,9 @@
+#Services
+ms_host_url: https://micro-service.com:9999
+gw_host_url: https://www.officemate.co.th/
+#Database
+merchant-db-name: office_qa
+merchant-db-user: office_usr
+merchant-db-password: P@ssw0rdxx!
+merchant-db-host: qa-rds-office.rds.amazonaws.com
+merchant-db-port: 9901
